@@ -1,17 +1,15 @@
 
 <div align="center">
 
-<img src="./bruno15987_banner.png" width="100%" alt="Banner de mãos digitais"/>
+<img src="./bruno15987_banner.png" width="100%" alt="Banner de mãos digitais em pixel art"/>
 
 <br>
 
-# Bruno
+# Hi 👋, I'm Bruno
 
 ### Developer
 
-*Learning by building.*
-
-[GitHub](https://github.com/Bruno15987) · [Repositories](https://github.com/Bruno15987?tab=repositories)
+**Learning Python and building projects.**
 
 </div>
 
@@ -21,24 +19,25 @@
 <tr>
 <td width="60%" valign="top">
 
-## About Me
+## 🚀 About Me
 
-Olá! Sou o Bruno, estou aprendendo programação e gosto de explorar tecnologia criando projetos.
+Olá! Sou o Bruno, estou aprendendo programação e gosto de explorar tecnologia criando meus próprios projetos.
 
 Atualmente, meu foco é Python. Tenho interesse em bots, automação e desenvolvimento de sistemas.
 
-Quero melhorar minhas habilidades na prática, experimentar ideias e entender como as coisas funcionam por trás do código.
+Estou sempre buscando aprender coisas novas, melhorar minha lógica e transformar ideias em projetos reais.
 
-**Interesses**
-- Python
-- Bots e automação
-- Desenvolvimento de sistemas
-- Novas tecnologias
+### Interests
+
+- Python development
+- Bots & automation
+- Software development
+- Technology
 
 </td>
 <td width="40%" valign="middle" align="center">
 
-<img src="./bruno-pixel.png" width="100%" alt="Arte pixel art monocromática"/>
+<img src="./IMG-20261008-WA0004.jpg" width="100%" alt="Personagem de Bruno com uma coroa"/>
 
 </td>
 </tr>
@@ -48,7 +47,7 @@ Quero melhorar minhas habilidades na prática, experimentar ideias e entender co
 
 <div align="center">
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Python, Git, GitHub e VS Code"/>
 
@@ -56,17 +55,13 @@ Quero melhorar minhas habilidades na prática, experimentar ideias e entender co
 
 ---
 
-## GitHub Stats
-
 <div align="center">
 
-<a href="https://github.com/Bruno15987">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bruno15987&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-</a>
+## 📊 GitHub Stats
 
-<a href="https://github.com/Bruno15987">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno15987&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages"/>
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bruno15987&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno15987&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/>
 
 </div>
 
@@ -74,13 +69,19 @@ Quero melhorar minhas habilidades na prática, experimentar ideias e entender co
 
 <div align="center">
 
-## Activity Graph
+## 📈 Activity Graph
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bruno15987&bg_color=0d1117&color=c9d1d9&line=888888&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bruno15987&bg_color=0d1117&color=c9d1d9&line=888888&point=ffffff&area=true&hide_border=true" alt="GitHub contribution graph"/>
 
-<br>
+</div>
 
-[Explore my repositories →](https://github.com/Bruno15987?tab=repositories)
+---
+
+<div align="center">
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-Bruno15987-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bruno15987)
 
 <br>
 
