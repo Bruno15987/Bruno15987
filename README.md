@@ -1,73 +1,87 @@
 
 <div align="center">
 
-<img width="100%" src="https://placehold.co/1200x250/0d0d12/e5e5e5?text=BRUNO15987+%2F%2F+DEVELOPER" alt="Banner"/>
+<img src="./bruno15987_banner.png" width="100%" alt="Banner pixel art do Bruno"/>
 
-# Hi 👋, I'm Bruno
+# Bruno
 
-### Backend Developer · Bot Developer
+### `Developer` · `Python`
 
-*Building projects, automations and useful tools.*
+**Aprendendo, criando projetos e evoluindo a cada linha de código.**
 
-<img src="https://komarev.com/ghpvc/?username=Bruno15987&style=flat-square&color=555555&label=PROFILE+VIEWS" alt="Profile views"/>
-
-</div>
-
----
-
-<h2 align="center">🚀 About Me</h2>
-
-- 💻 Interested in software development and automation.
-- 🤖 Exploring bots and useful tools.
-- 🛠️ Learning by building real projects.
-- 🎯 Focused on improving my programming skills.
-
----
-
-<h2 align="center">🧰 Tech Stack</h2>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,git,github,vscode,linux&theme=dark" alt="Technology icons"/>
+[![GitHub](https://img.shields.io/badge/GitHub-Bruno15987-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bruno15987)
+[![Python](https://img.shields.io/badge/Python-Learning-181717?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 </div>
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
+## `> Sobre mim`
+
+Olá! Sou o Bruno, gosto de tecnologia e estou aprendendo programação através da criação de projetos.
+
+- 🐍 Atualmente, meu foco é Python.
+- 🤖 Tenho interesse em bots e automação.
+- 💻 Gosto de explorar ferramentas e novas tecnologias.
+- 📚 Estou sempre buscando aprender algo novo.
+- 🎯 Meu objetivo é evoluir minhas habilidades e criar projetos úteis.
+
+> Aprender, construir, testar e melhorar.
+
+---
+
+## `> Tech Stack`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bruno15987&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno15987&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Python, Git, GitHub e VS Code"/>
 
 </div>
 
 ---
 
-<h2 align="center">📈 Contribution Graph</h2>
+## `> GitHub Stats`
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bruno15987&theme=github-compact&hide_border=true&area=true" alt="Contribution graph"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bruno15987&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno15987&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas"/>
 
 </div>
 
 ---
 
-<h2 align="center">🤝 Connect</h2>
+## `> Gráfico de contribuições`
 
 <div align="center">
 
-<a href="https://github.com/Bruno15987">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bruno15987&theme=github-compact&hide_border=true&area=true" alt="Gráfico de contribuições do Bruno"/>
 
 </div>
 
+---
+
+## `> Projetos`
+
 <div align="center">
 
-*"Keep building. Keep learning."*
+**Explorando ideias e construindo novos projetos.**
+
+[![Meus repositórios](https://img.shields.io/badge/Ver_meus_repositórios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bruno15987?tab=repositories)
+
+</div>
+
+---
+
+## `> Conectar`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bruno15987)
+
+<br/>
+
+<sub>Keep learning. Keep building.</sub>
 
 </div>
