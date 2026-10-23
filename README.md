@@ -9,7 +9,10 @@
 
 ### Developer
 
-**Learning Python and building projects.**
+*Learning Python and building projects.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Bruno15987-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bruno15987)
+[![Python](https://img.shields.io/badge/Focus-Python-181717?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 </div>
 
@@ -25,12 +28,12 @@ Olá! Sou o Bruno, estou aprendendo programação e gosto de explorar tecnologia
 
 Atualmente, meu foco é Python. Tenho interesse em bots, automação e desenvolvimento de sistemas.
 
-Estou sempre buscando aprender coisas novas, melhorar minha lógica e transformar ideias em projetos reais.
+Quero melhorar minhas habilidades na prática, experimentar ideias e aprender com cada projeto.
 
 ### Interests
 
-- Python development
-- Bots & automation
+- Python
+- Bots and automation
 - Software development
 - Technology
 
@@ -69,9 +72,9 @@ Estou sempre buscando aprender coisas novas, melhorar minha lógica e transforma
 
 <div align="center">
 
-## 📈 Activity Graph
+## 🔥 Contribution Streak
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bruno15987&bg_color=0d1117&color=c9d1d9&line=888888&point=ffffff&area=true&hide_border=true" alt="GitHub contribution graph"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bruno15987&theme=github-dark-blue&hide_border=true&background=0D1117)](https://github.com/Bruno15987)
 
 </div>
 
