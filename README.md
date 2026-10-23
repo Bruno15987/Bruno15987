@@ -1,87 +1,46 @@
 
 <div align="center">
 
-<img src="./bruno15987_banner.png" width="100%" alt="Banner pixel art do Bruno"/>
+<img src="./bruno15987_banner.png" width="100%" alt="Pixel art em preto e branco"/>
+
+<br>
 
 # Bruno
 
-### `Developer` · `Python`
+**Developer · Python**
 
-**Aprendendo, criando projetos e evoluindo a cada linha de código.**
+*Aprendendo na prática, um projeto de cada vez.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Bruno15987-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bruno15987)
-[![Python](https://img.shields.io/badge/Python-Learning-181717?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+<br>
 
-</div>
-
----
-
-## `> Sobre mim`
-
-Olá! Sou o Bruno, gosto de tecnologia e estou aprendendo programação através da criação de projetos.
-
-- 🐍 Atualmente, meu foco é Python.
-- 🤖 Tenho interesse em bots e automação.
-- 💻 Gosto de explorar ferramentas e novas tecnologias.
-- 📚 Estou sempre buscando aprender algo novo.
-- 🎯 Meu objetivo é evoluir minhas habilidades e criar projetos úteis.
-
-> Aprender, construir, testar e melhorar.
-
----
-
-## `> Tech Stack`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Python, Git, GitHub e VS Code"/>
+[GitHub](https://github.com/Bruno15987) · [Repositórios](https://github.com/Bruno15987?tab=repositories)
 
 </div>
 
 ---
 
-## `> GitHub Stats`
+### Sobre
 
-<div align="center">
+Sou o Bruno. Estou aprendendo programação e gosto de explorar ideias, desenvolver projetos e descobrir como as coisas funcionam por trás do código.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bruno15987&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub"/>
+Atualmente, meu foco é Python. Tenho interesse em bots, automação e desenvolvimento de sistemas.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno15987&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas"/>
+Quero continuar evoluindo através de projetos próprios, aprendendo com os erros e melhorando a cada tentativa.
 
-</div>
+### Tecnologias
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Python, Git, GitHub e VS Code"/>
+</p>
 
-## `> Gráfico de contribuições`
+### Atividade
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bruno15987&theme=github-compact&hide_border=true&area=true" alt="Gráfico de contribuições do Bruno"/>
-
-</div>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bruno15987&bg_color=0d1117&color=aaaaaa&line=888888&point=ffffff&area=true&hide_border=true)](https://github.com/Bruno15987)
 
 ---
 
-## `> Projetos`
-
 <div align="center">
 
-**Explorando ideias e construindo novos projetos.**
-
-[![Meus repositórios](https://img.shields.io/badge/Ver_meus_repositórios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bruno15987?tab=repositories)
-
-</div>
-
----
-
-## `> Conectar`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bruno15987)
-
-<br/>
-
-<sub>Keep learning. Keep building.</sub>
+*Building quietly. Improving constantly.*
 
 </div>
